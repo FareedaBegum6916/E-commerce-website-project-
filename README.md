@@ -38,6 +38,7 @@ Navigate through the website using the navigation menu. Use the shop page to exp
 - **HTML**: Used for structuring the content on the web pages.
 - **CSS**: Used for styling and layout to enhance the visual appearance of the website.
 - **JavaScript**: Used for creating interactive elements and dynamic features.
+- https://www.linkedin.com/posts/shaik-fareeda-jalal-7a58a3263_webdevelopment-activity-7195381152927420417-ugYj?utm_source=share&utm_medium=member_desktop
 
 ## Contact
 For any questions, feedback, or collaboration inquiries, please contact me via email at shaikfareedajalal27@gmail.com.
